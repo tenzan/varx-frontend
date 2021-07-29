@@ -1,6 +1,4 @@
 import { createTheme } from "@material-ui/core/styles";
-import { fontSize, fontWeight } from "@material-ui/system";
-import { grey, red } from "chalk";
 
 const green = '#99b898'
 const darkGreen = '#708670'
